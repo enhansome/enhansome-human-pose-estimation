@@ -293,7 +293,7 @@
             "last_commit": "2023-01-18T17:26:59Z",
             "owner": "facebookresearch",
             "repo": "DensePose",
-            "stars": 7256
+            "stars": 7258
           }
         },
         {
@@ -307,7 +307,7 @@
             "last_commit": "2022-12-10T16:22:15Z",
             "owner": "facebookresearch",
             "repo": "VideoPose3D",
-            "stars": 4052
+            "stars": 4051
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2023-07-10T13:41:54Z",
             "owner": "akanazawa",
             "repo": "hmr",
-            "stars": 1665
+            "stars": 1666
           }
         },
         {
@@ -487,7 +487,7 @@
             "last_commit": "2023-01-18T17:26:59Z",
             "owner": "facebookresearch",
             "repo": "DensePose",
-            "stars": 7256
+            "stars": 7258
           }
         },
         {
@@ -752,7 +752,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34362
+            "stars": 34364
           }
         },
         {
@@ -766,7 +766,7 @@
             "last_commit": "2023-01-18T17:26:59Z",
             "owner": "facebookresearch",
             "repo": "DensePose",
-            "stars": 7256
+            "stars": 7258
           }
         }
       ],
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:40:20.896Z",
+    "last_updated": "2026-08-14T18:35:43.305Z",
     "original_repository": "cbsudux/awesome-human-pose-estimation",
     "original_repository_sha": "bd574ef85042fad4ddb3a6413d42b63e91ed2183",
     "enhanced_repository": "enhansome/enhansome-human-pose-estimation",

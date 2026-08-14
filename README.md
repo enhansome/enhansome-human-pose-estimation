@@ -76,7 +76,7 @@ Feedback and contributions are welcome!
 * [Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf) - [\[CODE\]](https://github.com/facebookresearch/Densepose) ⚠️ Archived - Guler, R.A., Neverova, N., & Kokkinos, I. (ArXiv 2018)
 * [3D human pose estimation in video with temporal convolutions and
   semi-supervised training](https://arxiv.org/pdf/1811.11742.pdf) - [\[CODE\]](https://github.com/facebookresearch/VideoPose3D) ⚠️ Archived - Pavllo, D., Feichtenhofer, C., Grangier, D., & Auli, M (ArXiv 2018)
-* [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf) - [\[CODE\]](https://github.com/akanazawa/hmr) ⭐ 1,665 | 🐛 19 | 🌐 Python | 📅 2023-07-10 - Kanazawa, A., Black, M.J., Jacobs, D.W., & Malik, J. (CVPR 2018)
+* [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf) - [\[CODE\]](https://github.com/akanazawa/hmr) ⭐ 1,666 | 🐛 19 | 🌐 Python | 📅 2023-07-10 - Kanazawa, A., Black, M.J., Jacobs, D.W., & Malik, J. (CVPR 2018)
 * [Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB](https://arxiv.org/pdf/1712.03453.pdf) - [\[CODE1\]](http://gvv.mpi-inf.mpg.de/projects/SingleShotMultiPerson/)[\[CODE2\]](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch) ⭐ 688 | 🐛 3 | 🌐 Python | 📅 2023-11-25 - Mehta, D.,  Sotnychenko, O., Mueller, F., Xu, W., Sridhar, S., Pons-Moll, G., Theobalt, C. (3DV 2018)
 * [Towards 3D Human Pose Estimation in the Wild: a Weakly-supervised Approach](https://arxiv.org/pdf/1704.02447.pdf) - [\[CODE\]](https://github.com/xingyizhou/Pytorch-pose-hg-3d) ⭐ 612 | 🐛 36 | 🌐 Python | 📅 2023-06-21 - Zhou, X., Huang, Q., Sun, X., Xue, X., & Wei, Y. (ICCV 2017)
 * [Integral Human Pose Regression](https://arxiv.org/pdf/1711.08229.pdf) - [\[CODE\]](https://github.com/JimmySuen/integral-human-pose) ⭐ 488 | 🐛 10 | 🌐 Cuda | 📅 2019-04-04 - Sun, X., Xiao, B., Liang, S., & Wei, Y. (ECCV 2018)
@@ -165,7 +165,7 @@ Feedback and contributions are welcome!
 
 ### Others
 
-* [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,362 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+* [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,364 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
 * [DensePose](https://github.com/facebookresearch/DensePose) ⚠️ Archived
 
 ## Todo
@@ -181,4 +181,4 @@ Feedback and contributions are welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
