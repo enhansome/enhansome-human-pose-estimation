@@ -588,7 +588,7 @@
             "last_commit": "2024-05-13T14:33:34Z",
             "owner": "MVIG-SJTU",
             "repo": "AlphaPose",
-            "stars": 8592
+            "stars": 8593
           }
         },
         {
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:59:34.830Z",
+    "last_updated": "2026-08-16T17:59:04.029Z",
     "original_repository": "cbsudux/awesome-human-pose-estimation",
     "original_repository_sha": "bd574ef85042fad4ddb3a6413d42b63e91ed2183",
     "enhanced_repository": "enhansome/enhansome-human-pose-estimation",
