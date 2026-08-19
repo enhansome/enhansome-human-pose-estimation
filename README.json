@@ -1,786 +1,814 @@
 {
   "items": [
     {
-      "description": "This is a collection of papers and resources I curated when learning the ropes in Human Pose estimation. I will be continuously updating this list with the latest papers and resources. If you want to learn the basics of Human Pose Estimation and understand how the field has evolved, check out these articles I published on 2D Pose Estimation and 3D Pose Estimation",
-      "items": [],
-      "title": "Why awesome human pose estimation?"
-    },
-    {
-      "description": "If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to pull a request\nFeedback and contributions are welcome!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Papers"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Realtime Multi-person 2D Pose Estimation Using Part Affinity Fields",
-          "description": "[CODE] - Cao, Z., Simon, T., Wei, S., & Sheikh, Y. (CVPR 2017)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2020-03-21T13:01:08Z",
-            "owner": "ZheC",
-            "repo": "Realtime_Multi-Person_Pose_Estimation",
-            "stars": 5123
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deep High-Resolution Representation Learning for Human Pose Estimation",
-          "description": "[CODE] Ke Sun, Bin Xiao, Dong Liu, Jingdong Wang (CVPR 2019)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Cuda",
-            "last_commit": "2024-08-30T23:46:48Z",
-            "owner": "leoxiaobin",
-            "repo": "deep-high-resolution-net.pytorch",
-            "stars": 4479
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Simple Baselines for Human Pose Estimation and Tracking",
-          "description": "[CODE] - Bin, Xiao, Haiping Wu, Yichen Wei (ECCV 2018)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-11-28T19:11:04Z",
-            "owner": "microsoft",
-            "repo": "human-pose-estimation.pytorch",
-            "stars": 3008
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose",
-          "description": "[CODE] Osokin, D. (ArXiv 2018)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-30T09:54:40Z",
-            "owner": "Daniil-Osokin",
-            "repo": "lightweight-human-pose-estimation.pytorch",
-            "stars": 2241
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Convolutional Pose Machines",
-          "description": "[CODE] - Wei, S., Ramakrishna, V., Kanade, T., & Sheikh, Y. (CVPR 2016)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2018-06-05T16:51:01Z",
-            "owner": "shihenw",
-            "repo": "convolutional-pose-machines-release",
-            "stars": 883
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stacked Hourglass Networks for Human Pose Estimation",
-          "description": "[CODE] - Newell, A., Yang, K., & Deng, J. (ECCV 2016)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2017-10-17T15:54:56Z",
-            "owner": "princeton-vl",
-            "repo": "pose-hg-demo",
-            "stars": 314
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LSTM Pose Machines",
-          "description": "[CODE] - Yue Luo, Jimmy Ren, Zhouxia Wang, Wenxiu Sun, Jinshan Pan, Jianbo Liu, Jiahao Pang, Liang Lin (CVPR 2018)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2019-02-20T12:49:40Z",
-            "owner": "lawy623",
-            "repo": "LSTM_Pose_Machines",
-            "stars": 276
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation",
-          "description": "[CODE] - Pishchulin, L., Insafutdinov, E., Tang, S., Andres, B., Andriluka, M., Gehler, P.V., & Schiele, B. (CVPR 2016)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Matlab",
-            "last_commit": "2016-08-30T15:02:12Z",
-            "owner": "eldar",
-            "repo": "deepcut",
-            "stars": 222
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning Feature Pyramids for Human Pose Estimation",
-          "description": "[CODE] - Yang, W., Li, S., Ouyang, W., Li, H., & Wang, X. (ICCV 2017)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2021-12-20T20:18:32Z",
-            "owner": "bearpaw",
-            "repo": "PyraNet",
-            "stars": 221
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeeperCut: A Deeper, Stronger, and Faster Multi-Person Pose Estimation Model",
-          "description": "[CODE1][CODE2] - Insafutdinov, E., Pishchulin, L., Andres, B., Andriluka, M., & Schiele, B. (ECCV 2016)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-11-08T07:57:16Z",
-            "owner": "eldar",
-            "repo": "deepcut-cnn",
-            "stars": 191
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Multi-context Attention for Human Pose Estimation",
-          "description": "[CODE] - Chu, X., Yang, W., Ouyang, W., Ma, C., Yuille, A.L., & Wang, X. (CVPR 2017)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2021-12-20T20:20:27Z",
-            "owner": "bearpaw",
-            "repo": "pose-attention",
-            "stars": 173
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flowing ConvNets for Human Pose Estimation in Videos",
-          "description": "[CODE] - Pfister, T., Charles, J., & Zisserman, A. (ICCV 2015)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-07-22T09:35:10Z",
-            "owner": "tpfister",
-            "repo": "caffe-heatmap",
-            "stars": 166
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Towards Accurate Multi-person Pose Estimation in the Wild",
-          "description": "[CODE] - Papandreou, G., Zhu, T., Kanazawa, N., Toshev, A., Tompson, J., Bregler, C., & Murphy, K.P. (CVPR 2017)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-04-15T05:56:31Z",
-            "owner": "hackiey",
-            "repo": "keypoints",
-            "stars": 104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RMPE: Regional Multi-person Pose Estimation",
-          "description": "[CODE1][CODE2] - Fang, H., Xie, S., & Lu, C. (ICCV 2017)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-09-01T08:12:35Z",
-            "owner": "Fang-Haoshu",
-            "repo": "RMPE",
-            "stars": 96
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Knowledge-Guided Deep Fractal Neural Networks for Human Pose Estimation",
-          "description": "[CODE] Ning, G., Zhang, Z., & He, Z. (IEEE Transactions on Multimedia 2018)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Matlab",
-            "last_commit": "2018-09-27T18:59:50Z",
-            "owner": "Guanghan",
-            "repo": "GNet-pose",
-            "stars": 88
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Human Pose Estimation with Iterative Error Feedback",
-          "description": "[CODE] Carreira, J., Agrawal, P., Fragkiadaki, K., & Malik, J. (CVPR 2016)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-10-13T13:57:52Z",
-            "owner": "pulkitag",
-            "repo": "ief",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation",
-          "description": "[CODE] - Tompson, J., Jain, A., LeCun, Y., & Bregler, C. (NIPS 2014)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-02-25T14:43:19Z",
-            "owner": "max-andr",
-            "repo": "joint-cnn-mrf",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Self Adversarial Training for Human Pose Estimation",
-          "description": "[CODE1][CODE2] - Chou, C., Chien, J., & Chen, H. (ArXiv 2017)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2017-10-23T16:58:13Z",
-            "owner": "dongzhuoyao",
-            "repo": "jessiechouuu-adversarial-pose",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Recurrent Human Pose Estimation",
-          "description": "[CODE] - Belagiannis, V., & Zisserman, A. (FG 2017)",
-          "children": []
-        }
-      ],
-      "title": "2D Pose estimation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Dense Human Pose Estimation In The Wild",
-          "description": "[CODE] - Guler, R.A., Neverova, N., & Kokkinos, I. (ArXiv 2018)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-01-18T17:26:59Z",
-            "owner": "facebookresearch",
-            "repo": "DensePose",
-            "stars": 7258
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "3D human pose estimation in video with temporal convolutions and semi-supervised training",
-          "description": "[CODE] - Pavllo, D., Feichtenhofer, C., Grangier, D., & Auli, M (ArXiv 2018)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-12-10T16:22:15Z",
-            "owner": "facebookresearch",
-            "repo": "VideoPose3D",
-            "stars": 4051
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "End-to-end Recovery of Human Shape and Pose",
-          "description": "[CODE] - Kanazawa, A., Black, M.J., Jacobs, D.W., & Malik, J. (CVPR 2018)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-10T13:41:54Z",
-            "owner": "akanazawa",
-            "repo": "hmr",
-            "stars": 1666
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB",
-          "description": "[CODE1][CODE2] - Mehta, D., Sotnychenko, O., Mueller, F., Xu, W., Sridhar, S., Pons-Moll, G., Theobalt, C. (3DV 2018)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-11-25T21:03:08Z",
-            "owner": "Daniil-Osokin",
-            "repo": "lightweight-human-pose-estimation-3d-demo.pytorch",
-            "stars": 688
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Towards 3D Human Pose Estimation in the Wild: a Weakly-supervised Approach",
-          "description": "[CODE] - Zhou, X., Huang, Q., Sun, X., Xue, X., & Wei, Y. (ICCV 2017)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-21T13:58:21Z",
-            "owner": "xingyizhou",
-            "repo": "pytorch-pose-hg-3d",
-            "stars": 612
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Integral Human Pose Regression",
-          "description": "[CODE] - Sun, X., Xiao, B., Liang, S., & Wei, Y. (ECCV 2018)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Cuda",
-            "last_commit": "2019-04-04T02:58:37Z",
-            "owner": "JimmySuen",
-            "repo": "integral-human-pose",
-            "stars": 488
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera",
-          "description": "[CODE] - Mehta, Dushyant et al. (SIGGRAPH 2017)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-01-09T14:38:40Z",
-            "owner": "timctho",
-            "repo": "VNect-tensorflow",
-            "stars": 473
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation",
-          "description": "[CODE] - Omran, Mohamed and Lassner, Christoph and Pons-Moll, Gerard and Gehler, Peter V. and Schiele, Bernt (3DV 2018)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-10-23T13:36:50Z",
-            "owner": "mohomran",
-            "repo": "neural_body_fitting",
-            "stars": 272
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BodyNet: Volumetric Inference of 3D Human Body Shapes",
-          "description": "[CODE] - Varol, G., Ceylan, D., Russell, B., Yang, J., Yumer, E., Laptev, I., & Schmid, C. (ECCV 2018)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2018-09-06T17:36:42Z",
-            "owner": "gulvarol",
-            "repo": "bodynet",
-            "stars": 263
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Unsupervised Geometry-Aware Representation for 3D Human Pose Estimation",
-          "description": "[CODE] - Rhodin, H., Salzmann, M., & Fua, P. (ECCV 2018)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-11-09T05:56:26Z",
-            "owner": "hrhodin",
-            "repo": "UnsupervisedGeometryAwareRepresentationLearning",
-            "stars": 124
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Coarse-to-Fine Volumetric Prediction for Single-Image 3D Human Pose",
-          "description": "[CODE] - Pavlakos, G., Zhou, X., Derpanis, K.G., & Daniilidis, K. (CVPR 2017)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2017-07-10T17:16:23Z",
-            "owner": "geopavlakos",
-            "repo": "c2f-vol-demo",
-            "stars": 81
-          }
-        }
-      ],
-      "title": "3D Pose estimation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Deformable GANs for Pose-based Human Image Generation",
-          "description": "[CODE] - Siarohin, A., Sangineto, E., Lathuilière, S., & Sebe, N. (CVPR 2018)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-05T09:17:45Z",
-            "owner": "AliaksandrSiarohin",
-            "repo": "pose-gan",
-            "stars": 392
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pose Guided Person Image Generation",
-          "description": "[CODE] - Ma, L., Jia, X., Sun, Q., Schiele, B., Tuytelaars, T., & Gool, L.V. (NIPS 2017)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-08-11T12:52:15Z",
-            "owner": "charliememory",
-            "repo": "Pose-Guided-Person-Image-Generation",
-            "stars": 302
-          }
-        }
-      ],
-      "title": "Person generation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Dense Human Pose Estimation In The Wild",
-          "description": "[CODE] - Guler, R.A., Neverova, N., & Kokkinos, I. (ArXiv 2018)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-01-18T17:26:59Z",
-            "owner": "facebookresearch",
-            "repo": "DensePose",
-            "stars": 7258
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Realtime Multi-person 2D Pose Estimation Using Part Affinity Fields",
-          "description": "[CODE] - Cao, Z., Simon, T., Wei, S., & Sheikh, Y. (CVPR 2017)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2020-03-21T13:01:08Z",
-            "owner": "ZheC",
-            "repo": "Realtime_Multi-Person_Pose_Estimation",
-            "stars": 5123
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose",
-          "description": "[CODE] Osokin, D. (ArXiv 2018)",
           "children": [
             {
               "node_type": "item",
-              "title": "Extension to 3D pose estimation (based on Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB",
-              "description": "Mehta, D., et al.) - [CODE]",
+              "title": "Realtime Multi-person 2D Pose Estimation Using Part Affinity Fields",
+              "description": "[CODE] - Cao, Z., Simon, T., Wei, S., & Sheikh, Y. (CVPR 2017)",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 76280357,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-03-21T13:01:08Z",
+                "owner": "ZheC",
+                "repo": "Realtime_Multi-Person_Pose_Estimation",
+                "stars": 5123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deep High-Resolution Representation Learning for Human Pose Estimation",
+              "description": "[CODE] Ke Sun, Bin Xiao, Dong Liu, Jingdong Wang (CVPR 2019)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172426938,
+                "language": "Cuda",
+                "last_commit": "2024-08-30T23:46:48Z",
+                "owner": "leoxiaobin",
+                "repo": "deep-high-resolution-net.pytorch",
+                "stars": 4479
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Simple Baselines for Human Pose Estimation and Tracking",
+              "description": "[CODE] - Bin, Xiao, Haiping Wu, Yichen Wei (ECCV 2018)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 143120668,
+                "language": "Python",
+                "last_commit": "2022-11-28T19:11:04Z",
+                "owner": "microsoft",
+                "repo": "human-pose-estimation.pytorch",
+                "stars": 3008
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose",
+              "description": "[CODE] Osokin, D. (ArXiv 2018)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173498120,
+                "language": "Python",
+                "last_commit": "2024-04-30T09:54:40Z",
+                "owner": "Daniil-Osokin",
+                "repo": "lightweight-human-pose-estimation.pytorch",
+                "stars": 2241
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Convolutional Pose Machines",
+              "description": "[CODE] - Wei, S., Ramakrishna, V., Kanade, T., & Sheikh, Y. (CVPR 2016)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54434283,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-06-05T16:51:01Z",
+                "owner": "shihenw",
+                "repo": "convolutional-pose-machines-release",
+                "stars": 883
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stacked Hourglass Networks for Human Pose Estimation",
+              "description": "[CODE] - Newell, A., Yang, K., & Deng, J. (ECCV 2016)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54134137,
+                "language": "Lua",
+                "last_commit": "2017-10-17T15:54:56Z",
+                "owner": "princeton-vl",
+                "repo": "pose-hg-demo",
+                "stars": 314
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LSTM Pose Machines",
+              "description": "[CODE] - Yue Luo, Jimmy Ren, Zhouxia Wang, Wenxiu Sun, Jinshan Pan, Jianbo Liu, Jiahao Pang, Liang Lin (CVPR 2018)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114635079,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-02-20T12:49:40Z",
+                "owner": "lawy623",
+                "repo": "LSTM_Pose_Machines",
+                "stars": 276
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation",
+              "description": "[CODE] - Pishchulin, L., Insafutdinov, E., Tang, S., Andres, B., Andriluka, M., Gehler, P.V., & Schiele, B. (CVPR 2016)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61859514,
+                "language": "Matlab",
+                "last_commit": "2016-08-30T15:02:12Z",
+                "owner": "eldar",
+                "repo": "deepcut",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning Feature Pyramids for Human Pose Estimation",
+              "description": "[CODE] - Yang, W., Li, S., Ouyang, W., Li, H., & Wang, X. (ICCV 2017)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97566696,
+                "language": "Lua",
+                "last_commit": "2021-12-20T20:18:32Z",
+                "owner": "bearpaw",
+                "repo": "PyraNet",
+                "stars": 221
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeeperCut: A Deeper, Stronger, and Faster Multi-Person Pose Estimation Model",
+              "description": "[CODE1][CODE2] - Insafutdinov, E., Pishchulin, L., Andres, B., Andriluka, M., & Schiele, B. (ECCV 2016)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61657681,
+                "language": "C++",
+                "last_commit": "2017-11-08T07:57:16Z",
+                "owner": "eldar",
+                "repo": "deepcut-cnn",
+                "stars": 191
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Multi-context Attention for Human Pose Estimation",
+              "description": "[CODE] - Chu, X., Yang, W., Ouyang, W., Ma, C., Yuille, A.L., & Wang, X. (CVPR 2017)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87031107,
+                "language": "Lua",
+                "last_commit": "2021-12-20T20:20:27Z",
+                "owner": "bearpaw",
+                "repo": "pose-attention",
+                "stars": 173
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flowing ConvNets for Human Pose Estimation in Videos",
+              "description": "[CODE] - Pfister, T., Charles, J., & Zisserman, A. (ICCV 2015)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43256399,
+                "language": "C++",
+                "last_commit": "2017-07-22T09:35:10Z",
+                "owner": "tpfister",
+                "repo": "caffe-heatmap",
+                "stars": 166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Towards Accurate Multi-person Pose Estimation in the Wild",
+              "description": "[CODE] - Papandreou, G., Zhu, T., Kanazawa, N., Toshev, A., Tompson, J., Bregler, C., & Murphy, K.P. (CVPR 2017)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117808537,
+                "language": "Python",
+                "last_commit": "2019-04-15T05:56:31Z",
+                "owner": "hackiey",
+                "repo": "keypoints",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RMPE: Regional Multi-person Pose Estimation",
+              "description": "[CODE1][CODE2] - Fang, H., Xie, S., & Lu, C. (ICCV 2017)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66844908,
+                "language": "C++",
+                "last_commit": "2018-09-01T08:12:35Z",
+                "owner": "Fang-Haoshu",
+                "repo": "RMPE",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Knowledge-Guided Deep Fractal Neural Networks for Human Pose Estimation",
+              "description": "[CODE] Ning, G., Zhang, Z., & He, Z. (IEEE Transactions on Multimedia 2018)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90662380,
+                "language": "Matlab",
+                "last_commit": "2018-09-27T18:59:50Z",
+                "owner": "Guanghan",
+                "repo": "GNet-pose",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Human Pose Estimation with Iterative Error Feedback",
+              "description": "[CODE] Carreira, J., Agrawal, P., Fragkiadaki, K., & Malik, J. (CVPR 2016)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41502487,
+                "language": "Python",
+                "last_commit": "2016-10-13T13:57:52Z",
+                "owner": "pulkitag",
+                "repo": "ief",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation",
+              "description": "[CODE] - Tompson, J., Jain, A., LeCun, Y., & Bregler, C. (NIPS 2014)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117572261,
+                "language": "Python",
+                "last_commit": "2018-02-25T14:43:19Z",
+                "owner": "max-andr",
+                "repo": "joint-cnn-mrf",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Self Adversarial Training for Human Pose Estimation",
+              "description": "[CODE1][CODE2] - Chou, C., Chien, J., & Chen, H. (ArXiv 2017)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108430541,
+                "language": "Lua",
+                "last_commit": "2017-10-23T16:58:13Z",
+                "owner": "dongzhuoyao",
+                "repo": "jessiechouuu-adversarial-pose",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2D Pose estimation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dense Human Pose Estimation In The Wild",
+              "description": "[CODE] - Guler, R.A., Neverova, N., & Kokkinos, I. (ArXiv 2018)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 136069311,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-01-18T17:26:59Z",
+                "owner": "facebookresearch",
+                "repo": "DensePose",
+                "stars": 7258
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3D human pose estimation in video with temporal convolutions and semi-supervised training",
+              "description": "[CODE] - Pavllo, D., Feichtenhofer, C., Grangier, D., & Auli, M (ArXiv 2018)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 153697606,
+                "language": "Python",
+                "last_commit": "2022-12-10T16:22:15Z",
+                "owner": "facebookresearch",
+                "repo": "VideoPose3D",
+                "stars": 4051
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "End-to-end Recovery of Human Shape and Pose",
+              "description": "[CODE] - Kanazawa, A., Black, M.J., Jacobs, D.W., & Malik, J. (CVPR 2018)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114591486,
+                "language": "Python",
+                "last_commit": "2023-07-10T13:41:54Z",
+                "owner": "akanazawa",
+                "repo": "hmr",
+                "stars": 1666
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB",
+              "description": "[CODE1][CODE2] - Mehta, D., Sotnychenko, O., Mueller, F., Xu, W., Sridhar, S., Pons-Moll, G., Theobalt, C. (3DV 2018)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 214621222,
                 "language": "Python",
                 "last_commit": "2023-11-25T21:03:08Z",
                 "owner": "Daniil-Osokin",
                 "repo": "lightweight-human-pose-estimation-3d-demo.pytorch",
                 "stars": 688
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Towards 3D Human Pose Estimation in the Wild: a Weakly-supervised Approach",
+              "description": "[CODE] - Zhou, X., Huang, Q., Sun, X., Xue, X., & Wei, Y. (ICCV 2017)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113905209,
+                "language": "Python",
+                "last_commit": "2023-06-21T13:58:21Z",
+                "owner": "xingyizhou",
+                "repo": "pytorch-pose-hg-3d",
+                "stars": 612
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Integral Human Pose Regression",
+              "description": "[CODE] - Sun, X., Xiao, B., Liang, S., & Wei, Y. (ECCV 2018)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141657817,
+                "language": "Cuda",
+                "last_commit": "2019-04-04T02:58:37Z",
+                "owner": "JimmySuen",
+                "repo": "integral-human-pose",
+                "stars": 488
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera",
+              "description": "[CODE] - Mehta, Dushyant et al. (SIGGRAPH 2017)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105256069,
+                "language": "Python",
+                "last_commit": "2019-01-09T14:38:40Z",
+                "owner": "timctho",
+                "repo": "VNect-tensorflow",
+                "stars": 473
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation",
+              "description": "[CODE] - Omran, Mohamed and Lassner, Christoph and Pons-Moll, Gerard and Gehler, Peter V. and Schiele, Bernt (3DV 2018)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145331030,
+                "language": "Python",
+                "last_commit": "2018-10-23T13:36:50Z",
+                "owner": "mohomran",
+                "repo": "neural_body_fitting",
+                "stars": 272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BodyNet: Volumetric Inference of 3D Human Body Shapes",
+              "description": "[CODE] - Varol, G., Ceylan, D., Russell, B., Yang, J., Yumer, E., Laptev, I., & Schmid, C. (ECCV 2018)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144173052,
+                "language": "Lua",
+                "last_commit": "2018-09-06T17:36:42Z",
+                "owner": "gulvarol",
+                "repo": "bodynet",
+                "stars": 263
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unsupervised Geometry-Aware Representation for 3D Human Pose Estimation",
+              "description": "[CODE] - Rhodin, H., Salzmann, M., & Fua, P. (ECCV 2018)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147506809,
+                "language": "Python",
+                "last_commit": "2019-11-09T05:56:26Z",
+                "owner": "hrhodin",
+                "repo": "UnsupervisedGeometryAwareRepresentationLearning",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Coarse-to-Fine Volumetric Prediction for Single-Image 3D Human Pose",
+              "description": "[CODE] - Pavlakos, G., Zhou, X., Derpanis, K.G., & Daniilidis, K. (CVPR 2017)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96481217,
+                "language": "Lua",
+                "last_commit": "2017-07-10T17:16:23Z",
+                "owner": "geopavlakos",
+                "repo": "c2f-vol-demo",
+                "stars": 81
+              }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-30T09:54:40Z",
-            "owner": "Daniil-Osokin",
-            "repo": "lightweight-human-pose-estimation.pytorch",
-            "stars": 2241
-          }
+          "description": null,
+          "node_type": "group",
+          "title": "3D Pose estimation"
         },
         {
-          "node_type": "item",
-          "title": "VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera",
-          "description": "[CODE] - Mehta, Dushyant et al. (SIGGRAPH 2017)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-01-09T14:38:40Z",
-            "owner": "timctho",
-            "repo": "VNect-tensorflow",
-            "stars": 473
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Deformable GANs for Pose-based Human Image Generation",
+              "description": "[CODE] - Siarohin, A., Sangineto, E., Lathuilière, S., & Sebe, N. (CVPR 2018)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99590768,
+                "language": "Python",
+                "last_commit": "2023-04-05T09:17:45Z",
+                "owner": "AliaksandrSiarohin",
+                "repo": "pose-gan",
+                "stars": 392
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pose Guided Person Image Generation",
+              "description": "[CODE] - Ma, L., Jia, X., Sun, Q., Schiele, B., Tuytelaars, T., & Gool, L.V. (NIPS 2017)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117101930,
+                "language": "Python",
+                "last_commit": "2023-08-11T12:52:15Z",
+                "owner": "charliememory",
+                "repo": "Pose-Guided-Person-Image-Generation",
+                "stars": 302
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Person generation"
         },
         {
-          "node_type": "item",
-          "title": "RMPE: Regional Multi-person Pose Estimation",
-          "description": "[CODE1][CODE2] - Fang, H., Xie, S., & Lu, C. (ICCV 2017)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-09-01T08:12:35Z",
-            "owner": "Fang-Haoshu",
-            "repo": "RMPE",
-            "stars": 96
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dense Human Pose Estimation In The Wild",
+              "description": "[CODE] - Guler, R.A., Neverova, N., & Kokkinos, I. (ArXiv 2018)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 136069311,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-01-18T17:26:59Z",
+                "owner": "facebookresearch",
+                "repo": "DensePose",
+                "stars": 7258
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Realtime Multi-person 2D Pose Estimation Using Part Affinity Fields",
+              "description": "[CODE] - Cao, Z., Simon, T., Wei, S., & Sheikh, Y. (CVPR 2017)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76280357,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-03-21T13:01:08Z",
+                "owner": "ZheC",
+                "repo": "Realtime_Multi-Person_Pose_Estimation",
+                "stars": 5123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose",
+              "description": "[CODE] Osokin, D. (ArXiv 2018)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Extension to 3D pose estimation (based on Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB",
+                  "description": "Mehta, D., et al.) - [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 214621222,
+                    "language": "Python",
+                    "last_commit": "2023-11-25T21:03:08Z",
+                    "owner": "Daniil-Osokin",
+                    "repo": "lightweight-human-pose-estimation-3d-demo.pytorch",
+                    "stars": 688
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 173498120,
+                "language": "Python",
+                "last_commit": "2024-04-30T09:54:40Z",
+                "owner": "Daniil-Osokin",
+                "repo": "lightweight-human-pose-estimation.pytorch",
+                "stars": 2241
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera",
+              "description": "[CODE] - Mehta, Dushyant et al. (SIGGRAPH 2017)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105256069,
+                "language": "Python",
+                "last_commit": "2019-01-09T14:38:40Z",
+                "owner": "timctho",
+                "repo": "VNect-tensorflow",
+                "stars": 473
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RMPE: Regional Multi-person Pose Estimation",
+              "description": "[CODE1][CODE2] - Fang, H., Xie, S., & Lu, C. (ICCV 2017)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66844908,
+                "language": "C++",
+                "last_commit": "2018-09-01T08:12:35Z",
+                "owner": "Fang-Haoshu",
+                "repo": "RMPE",
+                "stars": 96
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Real-time pose estimation"
         }
       ],
-      "title": "Real-time pose estimation"
+      "title": "Papers"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Datasets"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AlphaPose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117772329,
+                "language": "Python",
+                "last_commit": "2024-05-13T14:33:34Z",
+                "owner": "MVIG-SJTU",
+                "repo": "AlphaPose",
+                "stars": 8594
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "deep-high-resolution-net.pytorch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172426938,
+                "language": "Cuda",
+                "last_commit": "2024-08-30T23:46:48Z",
+                "owner": "leoxiaobin",
+                "repo": "deep-high-resolution-net.pytorch",
+                "stars": 4479
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "human-pose-estimation.pytorch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 143120668,
+                "language": "Python",
+                "last_commit": "2022-11-28T19:11:04Z",
+                "owner": "microsoft",
+                "repo": "human-pose-estimation.pytorch",
+                "stars": 3008
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pytorch_Realtime_Multi-Person_Pose_Estimation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86431077,
+                "language": "Python",
+                "last_commit": "2023-02-07T01:46:17Z",
+                "owner": "tensorboy",
+                "repo": "pytorch_Realtime_Multi-Person_Pose_Estimation",
+                "stars": 1371
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pytorch-pose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90028126,
+                "language": "Python",
+                "last_commit": "2021-12-20T20:15:47Z",
+                "owner": "bearpaw",
+                "repo": "pytorch-pose",
+                "stars": 1121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pytorch-pose-hg-3d",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113905209,
+                "language": "Python",
+                "last_commit": "2023-06-21T13:58:21Z",
+                "owner": "xingyizhou",
+                "repo": "pytorch-pose-hg-3d",
+                "stars": 612
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3d_pose_baseline_pytorch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 125612584,
+                "language": "Python",
+                "last_commit": "2019-04-10T10:26:18Z",
+                "owner": "weigq",
+                "repo": "3d_pose_baseline_pytorch",
+                "stars": 379
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PyTorch"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pose-tensorflow",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84482531,
+                "language": "C++",
+                "last_commit": "2019-12-07T23:30:02Z",
+                "owner": "eldar",
+                "repo": "pose-tensorflow",
+                "stars": 1141
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TensorFlow"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pose-hg-train",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56559021,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-04-13T06:58:50Z",
+                "owner": "princeton-vl",
+                "repo": "pose-hg-train",
+                "stars": 576
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pose-hg-demo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54134137,
+                "language": "Lua",
+                "last_commit": "2017-10-17T15:54:56Z",
+                "owner": "princeton-vl",
+                "repo": "pose-hg-demo",
+                "stars": 314
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Torch"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "openpose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89247811,
+                "language": "C++",
+                "last_commit": "2024-08-03T01:59:11Z",
+                "owner": "CMU-Perceptual-Computing-Lab",
+                "repo": "openpose",
+                "stars": 34372
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DensePose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 136069311,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-01-18T17:26:59Z",
+                "owner": "facebookresearch",
+                "repo": "DensePose",
+                "stars": 7258
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
+        }
+      ],
       "title": "Popular implementations"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "AlphaPose",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-13T14:33:34Z",
-            "owner": "MVIG-SJTU",
-            "repo": "AlphaPose",
-            "stars": 8594
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "deep-high-resolution-net.pytorch",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Cuda",
-            "last_commit": "2024-08-30T23:46:48Z",
-            "owner": "leoxiaobin",
-            "repo": "deep-high-resolution-net.pytorch",
-            "stars": 4479
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "human-pose-estimation.pytorch",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-11-28T19:11:04Z",
-            "owner": "microsoft",
-            "repo": "human-pose-estimation.pytorch",
-            "stars": 3008
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pytorch_Realtime_Multi-Person_Pose_Estimation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-02-07T01:46:17Z",
-            "owner": "tensorboy",
-            "repo": "pytorch_Realtime_Multi-Person_Pose_Estimation",
-            "stars": 1371
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pytorch-pose",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-12-20T20:15:47Z",
-            "owner": "bearpaw",
-            "repo": "pytorch-pose",
-            "stars": 1121
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pytorch-pose-hg-3d",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-21T13:58:21Z",
-            "owner": "xingyizhou",
-            "repo": "pytorch-pose-hg-3d",
-            "stars": 612
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "3d_pose_baseline_pytorch",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2019-04-10T10:26:18Z",
-            "owner": "weigq",
-            "repo": "3d_pose_baseline_pytorch",
-            "stars": 379
-          }
-        }
-      ],
-      "title": "PyTorch"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pose-tensorflow",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-12-07T23:30:02Z",
-            "owner": "eldar",
-            "repo": "pose-tensorflow",
-            "stars": 1141
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tf-pose-estimation",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": "TensorFlow"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pose-hg-train",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2017-04-13T06:58:50Z",
-            "owner": "princeton-vl",
-            "repo": "pose-hg-train",
-            "stars": 576
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pose-hg-demo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2017-10-17T15:54:56Z",
-            "owner": "princeton-vl",
-            "repo": "pose-hg-demo",
-            "stars": 314
-          }
-        }
-      ],
-      "title": "Torch"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "openpose",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-08-03T01:59:11Z",
-            "owner": "CMU-Perceptual-Computing-Lab",
-            "repo": "openpose",
-            "stars": 34371
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DensePose",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-01-18T17:26:59Z",
-            "owner": "facebookresearch",
-            "repo": "DensePose",
-            "stars": 7258
-          }
-        }
-      ],
-      "title": "Others"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:13:37.179Z",
+    "last_updated": "2026-08-19T12:32:39.337Z",
     "original_repository": "cbsudux/awesome-human-pose-estimation",
+    "original_repository_id": 151448977,
     "original_repository_sha": "bd574ef85042fad4ddb3a6413d42b63e91ed2183",
     "enhanced_repository": "enhansome/enhansome-human-pose-estimation",
     "enhanced_repository_description": null,
