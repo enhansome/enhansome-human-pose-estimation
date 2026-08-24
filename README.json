@@ -778,7 +778,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34390
+                "stars": 34393
               }
             },
             {
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:01:42.564Z",
+    "last_updated": "2026-08-24T18:16:35.519Z",
     "original_repository": "cbsudux/awesome-human-pose-estimation",
     "original_repository_id": 151448977,
     "original_repository_sha": "bd574ef85042fad4ddb3a6413d42b63e91ed2183",
