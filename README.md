@@ -55,7 +55,7 @@ Feedback and contributions are welcome!
 * [Multi-context Attention for Human Pose Estimation](https://arxiv.org/pdf/1702.07432.pdf) - [\[CODE\]](https://github.com/bearpaw/pose-attention) ⭐ 173 | 🐛 5 | 🌐 Lua | 📅 2021-12-20 - Chu, X., Yang, W., Ouyang, W., Ma, C., Yuille, A.L., & Wang, X. (CVPR 2017)
 * [Flowing ConvNets for Human Pose Estimation in Videos](https://arxiv.org/pdf/1506.02897.pdf) - [\[CODE\]](https://github.com/tpfister/caffe-heatmap) ⭐ 166 | 🐛 14 | 🌐 C++ | 📅 2017-07-22 - Pfister, T., Charles, J., & Zisserman, A. (ICCV 2015)
 * [Towards Accurate Multi-person Pose Estimation in the Wild](https://arxiv.org/pdf/1701.01779.pdf) - [\[CODE\]](https://github.com/hackiey/keypoints) ⭐ 104 | 🐛 4 | 🌐 Python | 📅 2019-04-15 - Papandreou, G., Zhu, T., Kanazawa, N., Toshev, A., Tompson, J., Bregler, C., & Murphy, K.P. (CVPR 2017)
-* [RMPE: Regional Multi-person Pose Estimation](https://arxiv.org/pdf/1612.00137.pdf) - [\[CODE1\]](https://github.com/Fang-Haoshu/RMPE) ⭐ 96 | 🐛 1 | 🌐 C++ | 📅 2018-09-01[\[CODE2\]](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,594 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - Fang, H., Xie, S., & Lu, C. (ICCV 2017)
+* [RMPE: Regional Multi-person Pose Estimation](https://arxiv.org/pdf/1612.00137.pdf) - [\[CODE1\]](https://github.com/Fang-Haoshu/RMPE) ⭐ 96 | 🐛 1 | 🌐 C++ | 📅 2018-09-01[\[CODE2\]](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,595 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - Fang, H., Xie, S., & Lu, C. (ICCV 2017)
 * [Knowledge-Guided Deep Fractal Neural Networks for Human Pose Estimation](https://arxiv.org/pdf/1705.02407.pdf) - [\[CODE\]](https://github.com/Guanghan/GNet-pose) ⭐ 88 | 🐛 7 | 🌐 Matlab | 📅 2018-09-27 Ning, G., Zhang, Z., & He, Z. (IEEE Transactions on Multimedia 2018)
 * [Human Pose Estimation with Iterative Error Feedback](https://arxiv.org/pdf/1507.06550.pdf)- [\[CODE\]](https://github.com/pulkitag/ief) ⭐ 57 | 🐛 8 | 🌐 Python | 📅 2016-10-13 Carreira, J., Agrawal, P., Fragkiadaki, K., & Malik, J. (CVPR 2016)
 * [Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation](https://arxiv.org/pdf/1406.2984.pdf) - [\[CODE\]](https://github.com/max-andr/joint-cnn-mrf) ⭐ 55 | 🐛 2 | 🌐 Python | 📅 2018-02-25 - Tompson, J., Jain, A., LeCun, Y., & Bregler, C. (NIPS 2014)
@@ -112,7 +112,7 @@ Feedback and contributions are welcome!
 * [Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose](https://arxiv.org/pdf/1811.12004.pdf) - [\[CODE\]](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch) ⭐ 2,241 | 🐛 2 | 🌐 Python | 📅 2024-04-30 Osokin, D. (ArXiv 2018)
   * Extension to 3D pose estimation (based on [Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB](https://arxiv.org/pdf/1712.03453.pdf) - Mehta, D., et al.) - [\[CODE\]](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch) ⭐ 688 | 🐛 3 | 🌐 Python | 📅 2023-11-25
 * [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf) - [\[CODE\]](https://github.com/timctho/VNect-tensorflow) ⭐ 473 | 🐛 17 | 🌐 Python | 📅 2019-01-09 - Mehta, Dushyant et al. (SIGGRAPH 2017)
-* [RMPE: Regional Multi-person Pose Estimation](https://arxiv.org/pdf/1612.00137.pdf) - [\[CODE1\]](https://github.com/Fang-Haoshu/RMPE) ⭐ 96 | 🐛 1 | 🌐 C++ | 📅 2018-09-01[\[CODE2\]](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,594 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - Fang, H., Xie, S., & Lu, C. (ICCV 2017)
+* [RMPE: Regional Multi-person Pose Estimation](https://arxiv.org/pdf/1612.00137.pdf) - [\[CODE1\]](https://github.com/Fang-Haoshu/RMPE) ⭐ 96 | 🐛 1 | 🌐 C++ | 📅 2018-09-01[\[CODE2\]](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,595 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - Fang, H., Xie, S., & Lu, C. (ICCV 2017)
 
 ## Datasets
 
@@ -145,7 +145,7 @@ Feedback and contributions are welcome!
 
 ### PyTorch
 
-* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch) ⭐ 8,594 | 🐛 304 | 🌐 Python | 📅 2024-05-13
+* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch) ⭐ 8,595 | 🐛 304 | 🌐 Python | 📅 2024-05-13
 * [deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) ⭐ 4,480 | 🐛 209 | 🌐 Cuda | 📅 2024-08-30
 * [human-pose-estimation.pytorch](https://github.com/Microsoft/human-pose-estimation.pytorch) ⚠️ Archived
 * [pytorch\_Realtime\_Multi-Person\_Pose\_Estimation](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation) ⭐ 1,371 | 🐛 62 | 🌐 Python | 📅 2023-02-07
@@ -165,7 +165,7 @@ Feedback and contributions are welcome!
 
 ### Others
 
-* [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,395 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+* [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,401 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
 * [DensePose](https://github.com/facebookresearch/DensePose) ⚠️ Archived
 
 ## Todo
