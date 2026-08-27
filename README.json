@@ -607,7 +607,7 @@
                 "last_commit": "2024-05-13T14:33:34Z",
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8596
+                "stars": 8597
               }
             },
             {
@@ -778,7 +778,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34412
+                "stars": 34417
               }
             },
             {
@@ -806,9 +806,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:27:20.261Z",
-    "original_repository": "cbsudux/awesome-human-pose-estimation",
-    "original_repository_id": 151448977,
+    "last_updated": "2026-08-27T11:43:51.150Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 151448977,
+      "language": null,
+      "last_commit": "2022-10-12T12:34:44Z",
+      "owner": "cbsudux",
+      "repo": "awesome-human-pose-estimation",
+      "stars": 2480
+    },
     "original_repository_sha": "bd574ef85042fad4ddb3a6413d42b63e91ed2183",
     "enhanced_repository": "enhansome/enhansome-human-pose-estimation",
     "enhanced_repository_description": null,
