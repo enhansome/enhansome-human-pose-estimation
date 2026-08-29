@@ -18,7 +18,8 @@
                 "owner": "ZheC",
                 "repo": "Realtime_Multi-Person_Pose_Estimation",
                 "stars": 5123
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "leoxiaobin",
                 "repo": "deep-high-resolution-net.pytorch",
                 "stars": 4480
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "microsoft",
                 "repo": "human-pose-estimation.pytorch",
                 "stars": 3008
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "Daniil-Osokin",
                 "repo": "lightweight-human-pose-estimation.pytorch",
                 "stars": 2241
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "shihenw",
                 "repo": "convolutional-pose-machines-release",
                 "stars": 883
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "princeton-vl",
                 "repo": "pose-hg-demo",
                 "stars": 314
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "lawy623",
                 "repo": "LSTM_Pose_Machines",
                 "stars": 276
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "eldar",
                 "repo": "deepcut",
                 "stars": 222
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "bearpaw",
                 "repo": "PyraNet",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "eldar",
                 "repo": "deepcut-cnn",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "bearpaw",
                 "repo": "pose-attention",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "tpfister",
                 "repo": "caffe-heatmap",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "hackiey",
                 "repo": "keypoints",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "Fang-Haoshu",
                 "repo": "RMPE",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "Guanghan",
                 "repo": "GNet-pose",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "pulkitag",
                 "repo": "ief",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -258,7 +274,8 @@
                 "owner": "max-andr",
                 "repo": "joint-cnn-mrf",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "dongzhuoyao",
                 "repo": "jessiechouuu-adversarial-pose",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             }
           ],
           "description": null,
@@ -295,7 +313,8 @@
                 "owner": "facebookresearch",
                 "repo": "DensePose",
                 "stars": 7259
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "facebookresearch",
                 "repo": "VideoPose3D",
                 "stars": 4052
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "akanazawa",
                 "repo": "hmr",
                 "stars": 1666
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -340,7 +361,8 @@
                 "owner": "Daniil-Osokin",
                 "repo": "lightweight-human-pose-estimation-3d-demo.pytorch",
                 "stars": 688
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -355,7 +377,8 @@
                 "owner": "xingyizhou",
                 "repo": "pytorch-pose-hg-3d",
                 "stars": 612
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -370,7 +393,8 @@
                 "owner": "JimmySuen",
                 "repo": "integral-human-pose",
                 "stars": 488
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -385,7 +409,8 @@
                 "owner": "timctho",
                 "repo": "VNect-tensorflow",
                 "stars": 473
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -400,7 +425,8 @@
                 "owner": "mohomran",
                 "repo": "neural_body_fitting",
                 "stars": 272
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -415,7 +441,8 @@
                 "owner": "gulvarol",
                 "repo": "bodynet",
                 "stars": 263
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "hrhodin",
                 "repo": "UnsupervisedGeometryAwareRepresentationLearning",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -445,7 +473,8 @@
                 "owner": "geopavlakos",
                 "repo": "c2f-vol-demo",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             }
           ],
           "description": null,
@@ -467,7 +496,8 @@
                 "owner": "AliaksandrSiarohin",
                 "repo": "pose-gan",
                 "stars": 392
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -482,7 +512,8 @@
                 "owner": "charliememory",
                 "repo": "Pose-Guided-Person-Image-Generation",
                 "stars": 302
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             }
           ],
           "description": null,
@@ -504,7 +535,8 @@
                 "owner": "facebookresearch",
                 "repo": "DensePose",
                 "stars": 7259
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -519,7 +551,8 @@
                 "owner": "ZheC",
                 "repo": "Realtime_Multi-Person_Pose_Estimation",
                 "stars": 5123
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -539,7 +572,8 @@
                     "owner": "Daniil-Osokin",
                     "repo": "lightweight-human-pose-estimation-3d-demo.pytorch",
                     "stars": 688
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:33.558Z"
                 }
               ],
               "repo_info": {
@@ -550,7 +584,8 @@
                 "owner": "Daniil-Osokin",
                 "repo": "lightweight-human-pose-estimation.pytorch",
                 "stars": 2241
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -565,7 +600,8 @@
                 "owner": "timctho",
                 "repo": "VNect-tensorflow",
                 "stars": 473
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -580,7 +616,8 @@
                 "owner": "Fang-Haoshu",
                 "repo": "RMPE",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             }
           ],
           "description": null,
@@ -608,7 +645,8 @@
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
                 "stars": 8598
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -623,7 +661,8 @@
                 "owner": "leoxiaobin",
                 "repo": "deep-high-resolution-net.pytorch",
                 "stars": 4480
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -638,7 +677,8 @@
                 "owner": "microsoft",
                 "repo": "human-pose-estimation.pytorch",
                 "stars": 3008
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -653,7 +693,8 @@
                 "owner": "tensorboy",
                 "repo": "pytorch_Realtime_Multi-Person_Pose_Estimation",
                 "stars": 1371
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -668,7 +709,8 @@
                 "owner": "bearpaw",
                 "repo": "pytorch-pose",
                 "stars": 1121
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -683,7 +725,8 @@
                 "owner": "xingyizhou",
                 "repo": "pytorch-pose-hg-3d",
                 "stars": 612
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -698,7 +741,8 @@
                 "owner": "weigq",
                 "repo": "3d_pose_baseline_pytorch",
                 "stars": 379
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             }
           ],
           "description": null,
@@ -720,7 +764,8 @@
                 "owner": "eldar",
                 "repo": "pose-tensorflow",
                 "stars": 1141
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             }
           ],
           "description": null,
@@ -742,7 +787,8 @@
                 "owner": "princeton-vl",
                 "repo": "pose-hg-train",
                 "stars": 576
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -757,7 +803,8 @@
                 "owner": "princeton-vl",
                 "repo": "pose-hg-demo",
                 "stars": 314
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             }
           ],
           "description": null,
@@ -778,8 +825,9 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34418
-              }
+                "stars": 34417
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             },
             {
               "node_type": "item",
@@ -794,7 +842,8 @@
                 "owner": "facebookresearch",
                 "repo": "DensePose",
                 "stars": 7259
-              }
+              },
+              "first_seen": "2026-08-29T01:11:33.558Z"
             }
           ],
           "description": null,
@@ -806,7 +855,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:46:58.694Z",
+    "last_updated": "2026-08-29T01:11:33.558Z",
     "original_repository_info": {
       "archived": false,
       "id": 151448977,
