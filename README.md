@@ -78,7 +78,7 @@ Feedback and contributions are welcome!
   semi-supervised training](https://arxiv.org/pdf/1811.11742.pdf) - [\[CODE\]](https://github.com/facebookresearch/VideoPose3D) ⚠️ Archived - Pavllo, D., Feichtenhofer, C., Grangier, D., & Auli, M (ArXiv 2018)
 * [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf) - [\[CODE\]](https://github.com/akanazawa/hmr) ⭐ 1,666 | 🐛 19 | 🌐 Python | 📅 2023-07-10 - Kanazawa, A., Black, M.J., Jacobs, D.W., & Malik, J. (CVPR 2018)
 * [Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB](https://arxiv.org/pdf/1712.03453.pdf) - [\[CODE1\]](http://gvv.mpi-inf.mpg.de/projects/SingleShotMultiPerson/)[\[CODE2\]](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch) ⭐ 688 | 🐛 3 | 🌐 Python | 📅 2023-11-25 - Mehta, D.,  Sotnychenko, O., Mueller, F., Xu, W., Sridhar, S., Pons-Moll, G., Theobalt, C. (3DV 2018)
-* [Towards 3D Human Pose Estimation in the Wild: a Weakly-supervised Approach](https://arxiv.org/pdf/1704.02447.pdf) - [\[CODE\]](https://github.com/xingyizhou/Pytorch-pose-hg-3d) ⭐ 612 | 🐛 36 | 🌐 Python | 📅 2023-06-21 - Zhou, X., Huang, Q., Sun, X., Xue, X., & Wei, Y. (ICCV 2017)
+* [Towards 3D Human Pose Estimation in the Wild: a Weakly-supervised Approach](https://arxiv.org/pdf/1704.02447.pdf) - [\[CODE\]](https://github.com/xingyizhou/Pytorch-pose-hg-3d) ⭐ 611 | 🐛 36 | 🌐 Python | 📅 2023-06-21 - Zhou, X., Huang, Q., Sun, X., Xue, X., & Wei, Y. (ICCV 2017)
 * [Integral Human Pose Regression](https://arxiv.org/pdf/1711.08229.pdf) - [\[CODE\]](https://github.com/JimmySuen/integral-human-pose) ⭐ 488 | 🐛 10 | 🌐 Cuda | 📅 2019-04-04 - Sun, X., Xiao, B., Liang, S., & Wei, Y. (ECCV 2018)
 * [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf) - [\[CODE\]](https://github.com/timctho/VNect-tensorflow) ⭐ 473 | 🐛 17 | 🌐 Python | 📅 2019-01-09 - Mehta, Dushyant et al. (SIGGRAPH 2017)
 * [Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation](https://arxiv.org/pdf/1808.05942.pdf) - [\[CODE\]](https://github.com/mohomran/neural_body_fitting) ⭐ 272 | 🐛 14 | 🌐 Python | 📅 2018-10-23 - Omran, Mohamed and Lassner, Christoph and Pons-Moll, Gerard and Gehler, Peter V. and Schiele, Bernt (3DV 2018)
@@ -150,7 +150,7 @@ Feedback and contributions are welcome!
 * [human-pose-estimation.pytorch](https://github.com/Microsoft/human-pose-estimation.pytorch) ⚠️ Archived
 * [pytorch\_Realtime\_Multi-Person\_Pose\_Estimation](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation) ⭐ 1,371 | 🐛 62 | 🌐 Python | 📅 2023-02-07
 * [pytorch-pose](https://github.com/bearpaw/pytorch-pose) ⭐ 1,121 | 🐛 32 | 🌐 Python | 📅 2021-12-20
-* [pytorch-pose-hg-3d](https://github.com/xingyizhou/Pytorch-pose-hg-3d) ⭐ 612 | 🐛 36 | 🌐 Python | 📅 2023-06-21
+* [pytorch-pose-hg-3d](https://github.com/xingyizhou/Pytorch-pose-hg-3d) ⭐ 611 | 🐛 36 | 🌐 Python | 📅 2023-06-21
 * [3d\_pose\_baseline\_pytorch](https://github.com/weigq/3d_pose_baseline_pytorch) ⚠️ Archived
 
 ### TensorFlow
@@ -165,7 +165,7 @@ Feedback and contributions are welcome!
 
 ### Others
 
-* [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,420 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+* [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,421 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
 * [DensePose](https://github.com/facebookresearch/DensePose) ⚠️ Archived
 
 ## Todo
@@ -181,4 +181,4 @@ Feedback and contributions are welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
