@@ -53,7 +53,7 @@
                 "open_issues": 209,
                 "owner": "leoxiaobin",
                 "repo": "deep-high-resolution-net.pytorch",
-                "stars": 4478,
+                "stars": 4475,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-high-resolution-net",
@@ -83,7 +83,7 @@
                 "open_issues": 100,
                 "owner": "microsoft",
                 "repo": "human-pose-estimation.pytorch",
-                "stars": 3007,
+                "stars": 3005,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-learning",
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "Daniil-Osokin",
                 "repo": "lightweight-human-pose-estimation.pytorch",
-                "stars": 2240,
+                "stars": 2238,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-learning",
@@ -185,7 +185,7 @@
                 "open_issues": 8,
                 "owner": "lawy623",
                 "repo": "LSTM_Pose_Machines",
-                "stars": 276,
+                "stars": 275,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -227,7 +227,7 @@
                 "open_issues": 11,
                 "owner": "bearpaw",
                 "repo": "PyraNet",
-                "stars": 221,
+                "stars": 220,
                 "topics": [
                   "human-pose-estimation"
                 ]
@@ -334,7 +334,7 @@
                 "open_issues": 1,
                 "owner": "Fang-Haoshu",
                 "repo": "RMPE",
-                "stars": 96,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -544,7 +544,7 @@
                 "open_issues": 36,
                 "owner": "xingyizhou",
                 "repo": "pytorch-pose-hg-3d",
-                "stars": 609,
+                "stars": 610,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -565,7 +565,7 @@
                 "open_issues": 10,
                 "owner": "JimmySuen",
                 "repo": "integral-human-pose",
-                "stars": 488,
+                "stars": 487,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -841,7 +841,7 @@
                 "open_issues": 2,
                 "owner": "Daniil-Osokin",
                 "repo": "lightweight-human-pose-estimation.pytorch",
-                "stars": 2240,
+                "stars": 2238,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-learning",
@@ -902,7 +902,7 @@
                 "open_issues": 1,
                 "owner": "Fang-Haoshu",
                 "repo": "RMPE",
-                "stars": 96,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -978,7 +978,7 @@
                 "open_issues": 209,
                 "owner": "leoxiaobin",
                 "repo": "deep-high-resolution-net.pytorch",
-                "stars": 4478,
+                "stars": 4475,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-high-resolution-net",
@@ -1008,7 +1008,7 @@
                 "open_issues": 100,
                 "owner": "microsoft",
                 "repo": "human-pose-estimation.pytorch",
-                "stars": 3007,
+                "stars": 3005,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-learning",
@@ -1035,7 +1035,7 @@
                 "open_issues": 62,
                 "owner": "tensorboy",
                 "repo": "pytorch_Realtime_Multi-Person_Pose_Estimation",
-                "stars": 1371,
+                "stars": 1370,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -1085,7 +1085,7 @@
                 "open_issues": 36,
                 "owner": "xingyizhou",
                 "repo": "pytorch-pose-hg-3d",
-                "stars": 609,
+                "stars": 610,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -1139,7 +1139,7 @@
                 "open_issues": 65,
                 "owner": "eldar",
                 "repo": "pose-tensorflow",
-                "stars": 1141,
+                "stars": 1140,
                 "topics": [
                   "deep-learning",
                   "pose-estimation",
@@ -1220,7 +1220,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34433,
+                "stars": 34431,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:47:32.733Z",
+    "last_updated": "2026-09-08T20:19:59.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
