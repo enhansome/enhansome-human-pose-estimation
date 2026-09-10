@@ -53,7 +53,7 @@
                 "open_issues": 209,
                 "owner": "leoxiaobin",
                 "repo": "deep-high-resolution-net.pytorch",
-                "stars": 4475,
+                "stars": 4476,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-high-resolution-net",
@@ -490,7 +490,7 @@
                 "open_issues": 19,
                 "owner": "akanazawa",
                 "repo": "hmr",
-                "stars": 1667,
+                "stars": 1668,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -978,7 +978,7 @@
                 "open_issues": 209,
                 "owner": "leoxiaobin",
                 "repo": "deep-high-resolution-net.pytorch",
-                "stars": 4475,
+                "stars": 4476,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-high-resolution-net",
@@ -1220,7 +1220,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34433,
+                "stars": 34435,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T20:02:32.378Z",
+    "last_updated": "2026-09-10T20:05:02.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
