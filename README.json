@@ -448,7 +448,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7258,
+                "stars": 7257,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -490,7 +490,7 @@
                 "open_issues": 19,
                 "owner": "akanazawa",
                 "repo": "hmr",
-                "stars": 1668,
+                "stars": 1667,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -754,7 +754,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7258,
+                "stars": 7257,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -936,7 +936,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8600,
+                "stars": 8601,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1220,7 +1220,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34443,
+                "stars": 34444,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1262,7 +1262,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7258,
+                "stars": 7257,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T19:52:31.465Z",
+    "last_updated": "2026-09-14T21:03:57.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
