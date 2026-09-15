@@ -41,8 +41,8 @@ Feedback and contributions are welcome!
 
 ### 2D Pose estimation
 
-* [Realtime Multi-person 2D Pose Estimation Using Part Affinity Fields](https://arxiv.org/pdf/1611.08050.pdf) - [\[CODE\]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) ⭐ 5,120 | 🐛 107 | 🌐 Jupyter Notebook | 📅 2020-03-21 - Cao, Z., Simon, T., Wei, S., & Sheikh, Y. (CVPR 2017)
-* [Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/abs/1902.09212) - [\[CODE\]](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) ⭐ 4,476 | 🐛 209 | 🌐 Cuda | 📅 2024-08-30 Ke Sun, Bin Xiao, Dong Liu, Jingdong Wang (CVPR 2019)
+* [Realtime Multi-person 2D Pose Estimation Using Part Affinity Fields](https://arxiv.org/pdf/1611.08050.pdf) - [\[CODE\]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) ⭐ 5,122 | 🐛 107 | 🌐 Jupyter Notebook | 📅 2020-03-21 - Cao, Z., Simon, T., Wei, S., & Sheikh, Y. (CVPR 2017)
+* [Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/abs/1902.09212) - [\[CODE\]](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) ⭐ 4,477 | 🐛 209 | 🌐 Cuda | 📅 2024-08-30 Ke Sun, Bin Xiao, Dong Liu, Jingdong Wang (CVPR 2019)
 * [Simple Baselines for Human Pose Estimation
   and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Simple_Baselines_for_ECCV_2018_paper.pdf) - [\[CODE\]](https://github.com/Microsoft/human-pose-estimation.pytorch) ⚠️ Archived - Bin, Xiao, Haiping Wu, Yichen Wei (ECCV 2018)
 * [Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose](https://arxiv.org/pdf/1811.12004.pdf) - [\[CODE\]](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch) ⭐ 2,238 | 🐛 2 | 🌐 Python | 📅 2024-04-30 Osokin, D. (ArXiv 2018)
@@ -108,7 +108,7 @@ Feedback and contributions are welcome!
 ### Real-time pose estimation
 
 * [Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf) - [\[CODE\]](https://github.com/facebookresearch/Densepose) ⚠️ Archived - Guler, R.A., Neverova, N., & Kokkinos, I. (ArXiv 2018)
-* [Realtime Multi-person 2D Pose Estimation Using Part Affinity Fields](https://arxiv.org/pdf/1611.08050.pdf) - [\[CODE\]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) ⭐ 5,120 | 🐛 107 | 🌐 Jupyter Notebook | 📅 2020-03-21 - Cao, Z., Simon, T., Wei, S., & Sheikh, Y. (CVPR 2017)
+* [Realtime Multi-person 2D Pose Estimation Using Part Affinity Fields](https://arxiv.org/pdf/1611.08050.pdf) - [\[CODE\]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) ⭐ 5,122 | 🐛 107 | 🌐 Jupyter Notebook | 📅 2020-03-21 - Cao, Z., Simon, T., Wei, S., & Sheikh, Y. (CVPR 2017)
 * [Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose](https://arxiv.org/pdf/1811.12004.pdf) - [\[CODE\]](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch) ⭐ 2,238 | 🐛 2 | 🌐 Python | 📅 2024-04-30 Osokin, D. (ArXiv 2018)
   * Extension to 3D pose estimation (based on [Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB](https://arxiv.org/pdf/1712.03453.pdf) - Mehta, D., et al.) - [\[CODE\]](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch) ⭐ 688 | 🐛 3 | 🌐 Python | 📅 2023-11-25
 * [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf) - [\[CODE\]](https://github.com/timctho/VNect-tensorflow) ⭐ 473 | 🐛 17 | 🌐 Python | 📅 2019-01-09 - Mehta, Dushyant et al. (SIGGRAPH 2017)
@@ -146,7 +146,7 @@ Feedback and contributions are welcome!
 ### PyTorch
 
 * [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch) ⭐ 8,601 | 🐛 304 | 🌐 Python | 📅 2024-05-13
-* [deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) ⭐ 4,476 | 🐛 209 | 🌐 Cuda | 📅 2024-08-30
+* [deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) ⭐ 4,477 | 🐛 209 | 🌐 Cuda | 📅 2024-08-30
 * [human-pose-estimation.pytorch](https://github.com/Microsoft/human-pose-estimation.pytorch) ⚠️ Archived
 * [pytorch\_Realtime\_Multi-Person\_Pose\_Estimation](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation) ⭐ 1,370 | 🐛 62 | 🌐 Python | 📅 2023-02-07
 * [pytorch-pose](https://github.com/bearpaw/pytorch-pose) ⭐ 1,120 | 🐛 32 | 🌐 Python | 📅 2021-12-20
@@ -165,7 +165,7 @@ Feedback and contributions are welcome!
 
 ### Others
 
-* [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,444 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+* [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,447 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
 * [DensePose](https://github.com/facebookresearch/DensePose) ⚠️ Archived
 
 ## Todo
@@ -181,4 +181,4 @@ Feedback and contributions are welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
