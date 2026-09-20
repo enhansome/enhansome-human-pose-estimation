@@ -469,7 +469,7 @@
                 "open_issues": 161,
                 "owner": "facebookresearch",
                 "repo": "VideoPose3D",
-                "stars": 4047,
+                "stars": 4048,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -1139,7 +1139,7 @@
                 "open_issues": 65,
                 "owner": "eldar",
                 "repo": "pose-tensorflow",
-                "stars": 1140,
+                "stars": 1139,
                 "topics": [
                   "deep-learning",
                   "pose-estimation",
@@ -1220,7 +1220,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34454,
+                "stars": 34457,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T19:36:49.971Z",
+    "last_updated": "2026-09-20T19:48:54.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",

@@ -51,7 +51,7 @@ Feedback and contributions are welcome!
 * [LSTM Pose Machines](https://arxiv.org/pdf/1712.06316.pdf) - [\[CODE\]](https://github.com/lawy623/LSTM_Pose_Machines) ⭐ 275 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2019-02-20 - Yue Luo, Jimmy Ren, Zhouxia Wang, Wenxiu Sun, Jinshan Pan, Jianbo Liu, Jiahao Pang, Liang Lin (CVPR 2018)
 * [DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation](https://arxiv.org/pdf/1511.06645.pdf) - [\[CODE\]](https://github.com/eldar/deepcut) ⭐ 222 | 🐛 10 | 🌐 Matlab | 📅 2016-08-30 - Pishchulin, L., Insafutdinov, E., Tang, S., Andres, B., Andriluka, M., Gehler, P.V., & Schiele, B. (CVPR 2016)
 * [Learning Feature Pyramids for Human Pose Estimation](https://arxiv.org/pdf/1708.01101.pdf) - [\[CODE\]](https://github.com/bearpaw/PyraNet) ⭐ 220 | 🐛 11 | 🌐 Lua | 📅 2021-12-20 - Yang, W., Li, S., Ouyang, W., Li, H., & Wang, X. (ICCV 2017)
-* [DeeperCut: A Deeper, Stronger, and Faster Multi-Person Pose Estimation Model](https://arxiv.org/pdf/1605.03170.pdf) - [\[CODE1\]](https://github.com/eldar/deepcut-cnn) ⭐ 191 | 🐛 19 | 🌐 C++ | 📅 2017-11-08[\[CODE2\]](https://github.com/eldar/pose-tensorflow) ⭐ 1,140 | 🐛 65 | 🌐 C++ | 📅 2019-12-07 - Insafutdinov, E., Pishchulin, L., Andres, B., Andriluka, M., & Schiele, B. (ECCV 2016)
+* [DeeperCut: A Deeper, Stronger, and Faster Multi-Person Pose Estimation Model](https://arxiv.org/pdf/1605.03170.pdf) - [\[CODE1\]](https://github.com/eldar/deepcut-cnn) ⭐ 191 | 🐛 19 | 🌐 C++ | 📅 2017-11-08[\[CODE2\]](https://github.com/eldar/pose-tensorflow) ⭐ 1,139 | 🐛 65 | 🌐 C++ | 📅 2019-12-07 - Insafutdinov, E., Pishchulin, L., Andres, B., Andriluka, M., & Schiele, B. (ECCV 2016)
 * [Multi-context Attention for Human Pose Estimation](https://arxiv.org/pdf/1702.07432.pdf) - [\[CODE\]](https://github.com/bearpaw/pose-attention) ⭐ 173 | 🐛 5 | 🌐 Lua | 📅 2021-12-20 - Chu, X., Yang, W., Ouyang, W., Ma, C., Yuille, A.L., & Wang, X. (CVPR 2017)
 * [Flowing ConvNets for Human Pose Estimation in Videos](https://arxiv.org/pdf/1506.02897.pdf) - [\[CODE\]](https://github.com/tpfister/caffe-heatmap) ⭐ 166 | 🐛 14 | 🌐 C++ | 📅 2017-07-22 - Pfister, T., Charles, J., & Zisserman, A. (ICCV 2015)
 * [Towards Accurate Multi-person Pose Estimation in the Wild](https://arxiv.org/pdf/1701.01779.pdf) - [\[CODE\]](https://github.com/hackiey/keypoints) ⭐ 104 | 🐛 4 | 🌐 Python | 📅 2019-04-15 - Papandreou, G., Zhu, T., Kanazawa, N., Toshev, A., Tompson, J., Bregler, C., & Murphy, K.P. (CVPR 2017)
@@ -155,7 +155,7 @@ Feedback and contributions are welcome!
 
 ### TensorFlow
 
-* [pose-tensorflow](https://github.com/eldar/pose-tensorflow) ⭐ 1,140 | 🐛 65 | 🌐 C++ | 📅 2019-12-07
+* [pose-tensorflow](https://github.com/eldar/pose-tensorflow) ⭐ 1,139 | 🐛 65 | 🌐 C++ | 📅 2019-12-07
 * [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation)
 
 ### Torch
@@ -165,7 +165,7 @@ Feedback and contributions are welcome!
 
 ### Others
 
-* [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,454 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+* [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,457 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
 * [DensePose](https://github.com/facebookresearch/DensePose) ⚠️ Archived
 
 ## Todo
@@ -181,4 +181,4 @@ Feedback and contributions are welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
