@@ -490,7 +490,7 @@
                 "open_issues": 19,
                 "owner": "akanazawa",
                 "repo": "hmr",
-                "stars": 1669,
+                "stars": 1670,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -936,7 +936,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8607,
+                "stars": 8606,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1220,7 +1220,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34468,
+                "stars": 34467,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:48:13.369Z",
+    "last_updated": "2026-09-25T20:46:09.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
