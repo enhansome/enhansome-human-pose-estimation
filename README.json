@@ -83,7 +83,7 @@
                 "open_issues": 100,
                 "owner": "microsoft",
                 "repo": "human-pose-estimation.pytorch",
-                "stars": 3005,
+                "stars": 3006,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-learning",
@@ -936,7 +936,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8606,
+                "stars": 8608,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1008,7 +1008,7 @@
                 "open_issues": 100,
                 "owner": "microsoft",
                 "repo": "human-pose-estimation.pytorch",
-                "stars": 3005,
+                "stars": 3006,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-learning",
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:46:09.795Z",
+    "last_updated": "2026-09-26T20:11:18.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
