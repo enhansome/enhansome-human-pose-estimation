@@ -923,7 +923,7 @@
             {
               "node_type": "item",
               "title": "AlphaPose",
-              "description": null,
+              "description": "MVIG-SJTU/AlphaPose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -965,7 +965,7 @@
             {
               "node_type": "item",
               "title": "deep-high-resolution-net.pytorch",
-              "description": null,
+              "description": "leoxiaobin/deep-high-resolution-net.pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -995,7 +995,7 @@
             {
               "node_type": "item",
               "title": "human-pose-estimation.pytorch",
-              "description": null,
+              "description": "microsoft/human-pose-estimation.pytorch",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1022,7 +1022,7 @@
             {
               "node_type": "item",
               "title": "pytorch_Realtime_Multi-Person_Pose_Estimation",
-              "description": null,
+              "description": "tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1043,7 +1043,7 @@
             {
               "node_type": "item",
               "title": "pytorch-pose",
-              "description": null,
+              "description": "bearpaw/pytorch-pose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1072,7 +1072,7 @@
             {
               "node_type": "item",
               "title": "pytorch-pose-hg-3d",
-              "description": null,
+              "description": "xingyizhou/pytorch-pose-hg-3d",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1093,7 +1093,7 @@
             {
               "node_type": "item",
               "title": "3d_pose_baseline_pytorch",
-              "description": null,
+              "description": "weigq/3d_pose_baseline_pytorch",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1126,7 +1126,7 @@
             {
               "node_type": "item",
               "title": "pose-tensorflow",
-              "description": null,
+              "description": "eldar/pose-tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1158,7 +1158,7 @@
             {
               "node_type": "item",
               "title": "pose-hg-train",
-              "description": null,
+              "description": "princeton-vl/pose-hg-train",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1179,7 +1179,7 @@
             {
               "node_type": "item",
               "title": "pose-hg-demo",
-              "description": null,
+              "description": "princeton-vl/pose-hg-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1207,7 +1207,7 @@
             {
               "node_type": "item",
               "title": "openpose",
-              "description": null,
+              "description": "CMU-Perceptual-Computing-Lab/openpose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1220,7 +1220,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34483,
+                "stars": 34484,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1249,7 +1249,7 @@
             {
               "node_type": "item",
               "title": "DensePose",
-              "description": null,
+              "description": "facebookresearch/DensePose",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:26:56.492Z",
+    "last_updated": "2026-10-03T04:50:23.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
