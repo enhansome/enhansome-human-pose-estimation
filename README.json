@@ -83,7 +83,7 @@
                 "open_issues": 100,
                 "owner": "microsoft",
                 "repo": "human-pose-estimation.pytorch",
-                "stars": 3007,
+                "stars": 3008,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-learning",
@@ -469,7 +469,7 @@
                 "open_issues": 161,
                 "owner": "facebookresearch",
                 "repo": "VideoPose3D",
-                "stars": 4051,
+                "stars": 4050,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -490,7 +490,7 @@
                 "open_issues": 19,
                 "owner": "akanazawa",
                 "repo": "hmr",
-                "stars": 1672,
+                "stars": 1671,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -1008,7 +1008,7 @@
                 "open_issues": 100,
                 "owner": "microsoft",
                 "repo": "human-pose-estimation.pytorch",
-                "stars": 3007,
+                "stars": 3008,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-learning",
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T20:13:40.620Z",
+    "last_updated": "2026-10-04T20:29:14.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
