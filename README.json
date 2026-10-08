@@ -544,7 +544,7 @@
                 "open_issues": 36,
                 "owner": "xingyizhou",
                 "repo": "pytorch-pose-hg-3d",
-                "stars": 610,
+                "stars": 611,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -1085,7 +1085,7 @@
                 "open_issues": 36,
                 "owner": "xingyizhou",
                 "repo": "pytorch-pose-hg-3d",
-                "stars": 610,
+                "stars": 611,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -1220,7 +1220,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34485,
+                "stars": 34487,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T22:17:39.653Z",
+    "last_updated": "2026-10-08T22:30:23.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
