@@ -165,7 +165,7 @@ Feedback and contributions are welcome!
 
 ### Others
 
-* [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,487 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+* [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,492 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
 * [DensePose](https://github.com/facebookresearch/DensePose) ⚠️ Archived
 
 ## Todo
@@ -181,4 +181,4 @@ Feedback and contributions are welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
