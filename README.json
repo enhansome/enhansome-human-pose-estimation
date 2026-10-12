@@ -448,7 +448,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7262,
+                "stars": 7261,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -586,7 +586,7 @@
                 "open_issues": 17,
                 "owner": "timctho",
                 "repo": "VNect-tensorflow",
-                "stars": 473,
+                "stars": 474,
                 "topics": [
                   "3d-human-pose",
                   "depth-estimation",
@@ -754,7 +754,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7262,
+                "stars": 7261,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -874,7 +874,7 @@
                 "open_issues": 17,
                 "owner": "timctho",
                 "repo": "VNect-tensorflow",
-                "stars": 473,
+                "stars": 474,
                 "topics": [
                   "3d-human-pose",
                   "depth-estimation",
@@ -936,7 +936,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8609,
+                "stars": 8610,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1220,7 +1220,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34494,
+                "stars": 34493,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1262,7 +1262,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7262,
+                "stars": 7261,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T21:05:01.824Z",
+    "last_updated": "2026-10-12T23:47:46.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
@@ -1289,7 +1289,7 @@
       "open_issues": 7,
       "owner": "cbsudux",
       "repo": "awesome-human-pose-estimation",
-      "stars": 2480,
+      "stars": 2481,
       "topics": [
         "2d-human-pose",
         "3d-human-pose",
