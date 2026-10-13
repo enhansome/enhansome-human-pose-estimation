@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "Daniil-Osokin",
                 "repo": "lightweight-human-pose-estimation.pytorch",
-                "stars": 2237,
+                "stars": 2236,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-learning",
@@ -511,7 +511,7 @@
                 "open_issues": 3,
                 "owner": "Daniil-Osokin",
                 "repo": "lightweight-human-pose-estimation-3d-demo.pytorch",
-                "stars": 689,
+                "stars": 688,
                 "topics": [
                   "3d-human-pose",
                   "cmu-panoptic",
@@ -812,7 +812,7 @@
                     "open_issues": 3,
                     "owner": "Daniil-Osokin",
                     "repo": "lightweight-human-pose-estimation-3d-demo.pytorch",
-                    "stars": 689,
+                    "stars": 688,
                     "topics": [
                       "3d-human-pose",
                       "cmu-panoptic",
@@ -841,7 +841,7 @@
                 "open_issues": 2,
                 "owner": "Daniil-Osokin",
                 "repo": "lightweight-human-pose-estimation.pytorch",
-                "stars": 2237,
+                "stars": 2236,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-learning",
@@ -936,7 +936,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8610,
+                "stars": 8611,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1035,7 +1035,7 @@
                 "open_issues": 62,
                 "owner": "tensorboy",
                 "repo": "pytorch_Realtime_Multi-Person_Pose_Estimation",
-                "stars": 1370,
+                "stars": 1369,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -1220,7 +1220,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34493,
+                "stars": 34497,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:47:46.591Z",
+    "last_updated": "2026-10-13T21:58:46.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
@@ -1289,7 +1289,7 @@
       "open_issues": 7,
       "owner": "cbsudux",
       "repo": "awesome-human-pose-estimation",
-      "stars": 2481,
+      "stars": 2480,
       "topics": [
         "2d-human-pose",
         "3d-human-pose",
