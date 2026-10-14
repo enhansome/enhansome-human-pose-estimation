@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "Daniil-Osokin",
                 "repo": "lightweight-human-pose-estimation.pytorch",
-                "stars": 2236,
+                "stars": 2237,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-learning",
@@ -841,7 +841,7 @@
                 "open_issues": 2,
                 "owner": "Daniil-Osokin",
                 "repo": "lightweight-human-pose-estimation.pytorch",
-                "stars": 2236,
+                "stars": 2237,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-learning",
@@ -936,7 +936,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8611,
+                "stars": 8610,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:58:46.890Z",
+    "last_updated": "2026-10-14T20:59:23.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
