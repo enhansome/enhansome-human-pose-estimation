@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "Daniil-Osokin",
                 "repo": "lightweight-human-pose-estimation.pytorch",
-                "stars": 2237,
+                "stars": 2236,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-learning",
@@ -469,7 +469,7 @@
                 "open_issues": 161,
                 "owner": "facebookresearch",
                 "repo": "VideoPose3D",
-                "stars": 4049,
+                "stars": 4050,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -841,7 +841,7 @@
                 "open_issues": 2,
                 "owner": "Daniil-Osokin",
                 "repo": "lightweight-human-pose-estimation.pytorch",
-                "stars": 2237,
+                "stars": 2236,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-learning",
@@ -1220,7 +1220,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34497,
+                "stars": 34498,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:59:23.163Z",
+    "last_updated": "2026-10-15T20:33:37.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
