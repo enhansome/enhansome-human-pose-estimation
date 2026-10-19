@@ -469,7 +469,7 @@
                 "open_issues": 161,
                 "owner": "facebookresearch",
                 "repo": "VideoPose3D",
-                "stars": 4050,
+                "stars": 4051,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -936,7 +936,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8610,
+                "stars": 8609,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1217,10 +1217,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2024-08-03T01:59:11Z",
-                "open_issues": 359,
+                "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34504,
+                "stars": 34507,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T19:42:05.961Z",
+    "last_updated": "2026-10-19T21:45:12.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
