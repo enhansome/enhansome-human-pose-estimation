@@ -21,7 +21,7 @@
                 "open_issues": 107,
                 "owner": "ZheC",
                 "repo": "Realtime_Multi-Person_Pose_Estimation",
-                "stars": 5125,
+                "stars": 5126,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -448,7 +448,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7261,
+                "stars": 7262,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -754,7 +754,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7261,
+                "stars": 7262,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -775,7 +775,7 @@
                 "open_issues": 107,
                 "owner": "ZheC",
                 "repo": "Realtime_Multi-Person_Pose_Estimation",
-                "stars": 5125,
+                "stars": 5126,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1220,7 +1220,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34519,
+                "stars": 34520,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1262,7 +1262,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7261,
+                "stars": 7262,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:50:53.982Z",
+    "last_updated": "2026-10-25T20:00:39.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
