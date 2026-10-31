@@ -469,7 +469,7 @@
                 "open_issues": 161,
                 "owner": "facebookresearch",
                 "repo": "VideoPose3D",
-                "stars": 4061,
+                "stars": 4062,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -511,7 +511,7 @@
                 "open_issues": 3,
                 "owner": "Daniil-Osokin",
                 "repo": "lightweight-human-pose-estimation-3d-demo.pytorch",
-                "stars": 687,
+                "stars": 686,
                 "topics": [
                   "3d-human-pose",
                   "cmu-panoptic",
@@ -812,7 +812,7 @@
                     "open_issues": 3,
                     "owner": "Daniil-Osokin",
                     "repo": "lightweight-human-pose-estimation-3d-demo.pytorch",
-                    "stars": 687,
+                    "stars": 686,
                     "topics": [
                       "3d-human-pose",
                       "cmu-panoptic",
@@ -1220,7 +1220,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34540,
+                "stars": 34550,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:42:03.202Z",
+    "last_updated": "2026-10-31T20:41:32.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
