@@ -936,7 +936,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8611,
+                "stars": 8613,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:41:32.328Z",
+    "last_updated": "2026-11-01T21:22:44.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
