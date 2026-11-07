@@ -448,7 +448,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7260,
+                "stars": 7259,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -754,7 +754,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7260,
+                "stars": 7259,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -1220,7 +1220,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34562,
+                "stars": 34564,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1262,7 +1262,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7260,
+                "stars": 7259,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:25:57.465Z",
+    "last_updated": "2026-11-07T21:05:24.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
