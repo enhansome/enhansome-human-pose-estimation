@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "Daniil-Osokin",
                 "repo": "lightweight-human-pose-estimation.pytorch",
-                "stars": 2234,
+                "stars": 2235,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-learning",
@@ -448,7 +448,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7259,
+                "stars": 7260,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -469,7 +469,7 @@
                 "open_issues": 161,
                 "owner": "facebookresearch",
                 "repo": "VideoPose3D",
-                "stars": 4062,
+                "stars": 4063,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -754,7 +754,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7259,
+                "stars": 7260,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -841,7 +841,7 @@
                 "open_issues": 2,
                 "owner": "Daniil-Osokin",
                 "repo": "lightweight-human-pose-estimation.pytorch",
-                "stars": 2234,
+                "stars": 2235,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-learning",
@@ -936,7 +936,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8620,
+                "stars": 8621,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1220,7 +1220,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34574,
+                "stars": 34575,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1262,7 +1262,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7259,
+                "stars": 7260,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:52:14.136Z",
+    "last_updated": "2026-11-10T22:33:16.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
