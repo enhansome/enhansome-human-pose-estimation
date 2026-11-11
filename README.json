@@ -53,7 +53,7 @@
                 "open_issues": 209,
                 "owner": "leoxiaobin",
                 "repo": "deep-high-resolution-net.pytorch",
-                "stars": 4476,
+                "stars": 4475,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-high-resolution-net",
@@ -83,7 +83,7 @@
                 "open_issues": 100,
                 "owner": "microsoft",
                 "repo": "human-pose-estimation.pytorch",
-                "stars": 3009,
+                "stars": 3008,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-learning",
@@ -164,7 +164,7 @@
                 "open_issues": 17,
                 "owner": "princeton-vl",
                 "repo": "pose-hg-demo",
-                "stars": 314,
+                "stars": 313,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -292,7 +292,7 @@
                 "open_issues": 14,
                 "owner": "tpfister",
                 "repo": "caffe-heatmap",
-                "stars": 166,
+                "stars": 165,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -418,7 +418,7 @@
                 "open_issues": 0,
                 "owner": "dongzhuoyao",
                 "repo": "jessiechouuu-adversarial-pose",
-                "stars": 31,
+                "stars": 30,
                 "topics": [
                   "pose"
                 ]
@@ -469,7 +469,7 @@
                 "open_issues": 161,
                 "owner": "facebookresearch",
                 "repo": "VideoPose3D",
-                "stars": 4063,
+                "stars": 4062,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -936,7 +936,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8621,
+                "stars": 8622,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -978,7 +978,7 @@
                 "open_issues": 209,
                 "owner": "leoxiaobin",
                 "repo": "deep-high-resolution-net.pytorch",
-                "stars": 4476,
+                "stars": 4475,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-high-resolution-net",
@@ -1008,7 +1008,7 @@
                 "open_issues": 100,
                 "owner": "microsoft",
                 "repo": "human-pose-estimation.pytorch",
-                "stars": 3009,
+                "stars": 3008,
                 "topics": [
                   "coco-keypoints-detection",
                   "deep-learning",
@@ -1056,7 +1056,7 @@
                 "open_issues": 32,
                 "owner": "bearpaw",
                 "repo": "pytorch-pose",
-                "stars": 1121,
+                "stars": 1120,
                 "topics": [
                   "hourglass-network",
                   "human-pose-estimation",
@@ -1171,7 +1171,7 @@
                 "open_issues": 26,
                 "owner": "princeton-vl",
                 "repo": "pose-hg-train",
-                "stars": 576,
+                "stars": 575,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -1192,7 +1192,7 @@
                 "open_issues": 17,
                 "owner": "princeton-vl",
                 "repo": "pose-hg-demo",
-                "stars": 314,
+                "stars": 313,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:33:16.161Z",
+    "last_updated": "2026-11-11T23:43:25.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
@@ -1289,7 +1289,7 @@
       "open_issues": 7,
       "owner": "cbsudux",
       "repo": "awesome-human-pose-estimation",
-      "stars": 2479,
+      "stars": 2480,
       "topics": [
         "2d-human-pose",
         "3d-human-pose",
