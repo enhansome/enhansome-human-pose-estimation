@@ -936,7 +936,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8622,
+                "stars": 8624,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1220,7 +1220,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34575,
+                "stars": 34579,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:43:25.845Z",
+    "last_updated": "2026-11-12T22:53:26.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
@@ -1289,7 +1289,7 @@
       "open_issues": 7,
       "owner": "cbsudux",
       "repo": "awesome-human-pose-estimation",
-      "stars": 2480,
+      "stars": 2479,
       "topics": [
         "2d-human-pose",
         "3d-human-pose",
