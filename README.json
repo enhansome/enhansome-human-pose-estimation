@@ -21,7 +21,7 @@
                 "open_issues": 107,
                 "owner": "ZheC",
                 "repo": "Realtime_Multi-Person_Pose_Estimation",
-                "stars": 5126,
+                "stars": 5125,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -469,7 +469,7 @@
                 "open_issues": 161,
                 "owner": "facebookresearch",
                 "repo": "VideoPose3D",
-                "stars": 4063,
+                "stars": 4064,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -490,7 +490,7 @@
                 "open_issues": 19,
                 "owner": "akanazawa",
                 "repo": "hmr",
-                "stars": 1673,
+                "stars": 1674,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:33.558Z"
@@ -775,7 +775,7 @@
                 "open_issues": 107,
                 "owner": "ZheC",
                 "repo": "Realtime_Multi-Person_Pose_Estimation",
-                "stars": 5126,
+                "stars": 5125,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1220,7 +1220,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34586,
+                "stars": 34590,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1277,7 +1277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T01:06:12.934Z",
+    "last_updated": "2026-11-17T23:59:36.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources in Human Pose estimation.",
